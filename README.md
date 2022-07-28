@@ -10,10 +10,11 @@ In order to use the app you will need to create an developer account and get you
 import Foundation
 
 struct Secrets {
+
     struct MarvelKeys {
-        static let publickey = "5837aadbfc4e8308242d17f415ddb69f"
-        static let privateKey = "81c2289aec96a3484c481de45365885daf3a72e9"
-        
+        static let publickey = "Put your public key here!"
+        static let privateKey = "Put your private key here!"
     }
+    
 }
 ```
