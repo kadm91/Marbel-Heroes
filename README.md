@@ -20,6 +20,4 @@ struct Secrets {
 ```
 # App Preview
 
-![Untitled](https://user-images.githubusercontent.com/82669898/181651273-eaa95fe8-19c4-41d3-b906-b6ca156a0158.jpg)
-
-
+![Untitled](https://user-images.githubusercontent.com/82669898/181651706-b30dc136-223f-4538-9065-0e508a25bcb8.jpg)
