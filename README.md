@@ -5,8 +5,8 @@ This app was created using the Marvel API https://developer.marvel.com
 
 In order to use the app you will need to create an developer account and get your keys the app have a file name **KeysPlaceHolder.swift** where you will put your keys, This is the only step you will nedd to make use of this app. 
 
-`
-import Foundation
+
+`import Foundation
 
 struct Secrets {
     struct MarvelKeys {
