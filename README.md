@@ -18,10 +18,8 @@ struct Secrets {
     
 }
 ```
-# Photos
+# App Preview
 
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-28 at 16 31 59](https://user-images.githubusercontent.com/82669898/181648292-923e3553-5af0-4e21-9452-2a3255686ee9.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-28 at 16 32 04](https://user-images.githubusercontent.com/82669898/181648301-e3a46945-2d67-45af-b5f5-1d0fc2209a6a.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-28 at 16 32 15](https://user-images.githubusercontent.com/82669898/181648304-598c85d6-1f5e-4d7a-a485-e7df834b0fa1.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-28 at 16 32 26](https://user-images.githubusercontent.com/82669898/181648306-b9e114cd-970f-4236-ab89-f4314027e887.png)
+![Untitled](https://user-images.githubusercontent.com/82669898/181651273-eaa95fe8-19c4-41d3-b906-b6ca156a0158.jpg)
+
 
