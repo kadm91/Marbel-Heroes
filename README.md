@@ -32,9 +32,9 @@ struct Secrets {
 
 # App Preview
 
-![](https://github.com/kadm91/gifs-for-repositories/blob/main/Marvel-app.gif=250x250)
 
-<img src="https://github.com/kadm91/gifs-for-repositories/blob/main/Marvel-app.gif" width="400" height="600" />
+
+<img src="https://github.com/kadm91/gifs-for-repositories/blob/main/Marvel-app.gif" width="822" height="1779" />
 
 ![Untitled](https://user-images.githubusercontent.com/82669898/181652962-a54a816f-877d-444c-9c14-350591bb659b.jpg)
 
